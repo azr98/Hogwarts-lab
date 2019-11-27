@@ -1,0 +1,13 @@
+@font-face {
+  font-family: HarryPotter;
+  src: url(HarryP.TTF);
+}
+
+body {
+  font-family: HarryPotter;
+  background-image: url(castle.jpg);
+  background-size: cover;
+  font-size: 16px;
+}
+
+background
